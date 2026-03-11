@@ -1,0 +1,40 @@
+<type name="M4A1">
+    <nominal>20</nominal>
+    <min>15</min>
+    <restock>0</restock>
+    <lifetime>10800</lifetime>
+    <flags count_in_cargo="0" count_in_hoard="0" count_in_inventory="0" count_in_map="1"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+
+<type name="AKM">
+    <nominal>20</nominal>
+    <min>15</min>
+    <restock>0</restock>
+    <lifetime>10800</lifetime>
+    <flags count_in_cargo="0" count_in_hoard="0" count_in_inventory="0" count_in_map="1"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+</type>
+
+<type name="FAL"> <nominal>8</nominal>
+    <min>5</min>
+    <restock>1800</restock>
+    <flags count_in_cargo="0" count_in_hoard="1" count_in_inventory="0" count_in_map="1"/>
+    <value name="Tier4"/>
+</type>
+
+<type name="M70_Tundra">
+    <nominal>4</nominal>
+    <min>2</min>
+    <restock>3600</restock>
+    <flags count_in_cargo="1" count_in_hoard="1" count_in_inventory="1" count_in_map="1"/>
+    <value name="Tier4"/>
+</type>
+
+<type name="SVD"> <nominal>2</nominal>
+    <min>1</min>
+    <restock>7200</restock> <flags count_in_cargo="1" count_in_hoard="1" count_in_inventory="1" count_in_map="1"/>
+    <value name="Tier4"/>
+</type>
